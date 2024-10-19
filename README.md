@@ -1,2 +1,3 @@
 # Mi-primer-prototipo
-Primera vez haciendolo
+
+Una pagina web para una barberia (en proceso de mejora)
